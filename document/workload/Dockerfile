@@ -1,5 +1,5 @@
 
-FROM  ubuntu:14.04
+FROM  ubuntu:latest
 MAINTAINER Yang Lei<yanglei@us.ibm.com>
 
 # Describe the environment
