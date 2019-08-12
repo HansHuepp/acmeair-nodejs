@@ -22,7 +22,7 @@ RUN \
 
 WORKDIR /var/apps/acmeair-nodejs
 
-EXPOSE 9080:9080 
+EXPOSE 9080:9090 
 EXPOSE 9443
 
 ENV APP_NAME app.js
